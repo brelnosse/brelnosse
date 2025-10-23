@@ -9,7 +9,7 @@ Just a guy who writes code
 ## Mes Outils de Travail
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,python,php,c,java,flutter,js,typescript,firebase,github,nodejs,express,mongodb,discord,postman,swagger" />
+    <img src="https://skillicons.dev/icons?i=vscode,python,php,c,java,flutter,js,typescript,firebase,github,nodejs,express,mongodb,discord,postman,swaggerUI" />
   </a>
 </p>
 
