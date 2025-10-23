@@ -10,4 +10,4 @@ Just a guy who writes code
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Starland9/Starland9/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/brelnosse/brelnosse/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
