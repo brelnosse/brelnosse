@@ -8,6 +8,4 @@ Just a guy who writes code
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/brelnosse/brelnosse/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
