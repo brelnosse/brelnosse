@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Brel
 
-**Just a guy who writes code** *Building solutions with Python, Flutter, and the Web.*
+**Just a guy who writes code** *Building solutions with Flutter, and the Web.*
 
 ---
 
@@ -17,16 +17,11 @@
 ### 🛠️ Mes Outils de Travail
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,python,php,c,java,flutter,js,ts,firebase,github,nodejs,express,mongodb,discord,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=vscode,php,c,java,flutter,js,ts,firebase,github,nodejs,express,mongodb,postman&perline=8" />
   </a>
 </p>
 
 ---
-
-### 🐍 My Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/brelnosse/brelnosse/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=brelnosse&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
