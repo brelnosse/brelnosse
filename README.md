@@ -6,13 +6,13 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brelnosse&show_icons=true&theme=tokyonight&rank_icon=github&display_format=github-light-default" alt="Brel's Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=brelnosse&show_icons=true&theme=tokyonight&rank_icon=github" alt="Brel's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brelnosse&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brelnosse&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=brelnosse&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brelnosse&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -26,8 +26,10 @@
 
 ---
 
-### 📈 Contribution Activity
-![Snake animation](https://github-pj-snake.vercel.app/api/snake?github_user=brelnosse&color_dot=%23bfd6f6&color_empty=%23e1e4e8&color_snake=%23336699)
+### 🐍 My Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brelnosse/brelnosse/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=brelnosse&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
