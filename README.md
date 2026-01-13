@@ -1,6 +1,9 @@
 # 👋 Hello, I'm Brel
+**Just a guy who writes code**  
+*Building solutions with Flutter and the Web.*
 
-**Just a guy who writes code** *Building solutions with Flutter, and the Web.*
+## 🚀 About Me
+I'm a developer passionate about creating mobile and web applications. I love turning ideas into reality through clean (i do my best 😜), efficient code
 
 ---
 
