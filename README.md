@@ -7,7 +7,7 @@
 ### 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=brelnosse&show_icons=true&theme=tokyonight&rank_icon=github" alt="Brel's Stats" />
-  <img src=" https://github-readme-streak-stats.herokuapp.com/?user=brelnosse&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brelnosse&theme=tokyonight" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brelnosse&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
