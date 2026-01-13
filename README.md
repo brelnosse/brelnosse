@@ -12,10 +12,10 @@
 
 ---
 
-### 🛠️ Mes Outils de Travail
+### 🛠️ My working tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,php,c,java,flutter,js,ts,firebase,github,nodejs,express,mongodb,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=vscode,php,c,java,flutter,js,ts,firebase,github,nodejs,express,mongodb,postman,gitlab&perline=8" />
   </a>
 </p>
 
