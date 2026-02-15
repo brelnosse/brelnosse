@@ -8,14 +8,14 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a developer passionate about creating **mobile** and **web applications**. I love turning ideas into reality through clean *(I do my best 😜)*, efficient code.
 
-- 🔭 Currently working with **Flutter** and **Web technologies**
-- 🌱 Always learning and improving my craft
-- 💡 Believer in clean, maintainable code
-- ⚡ Fun fact: Code is poetry in motion
+- Currently working with **Flutter** and **Web technologies**
+- Always learning and improving my craft
+- Believer in clean, maintainable code
+- Fun fact: Code is poetry in motion
 
 ---
 
